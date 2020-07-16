@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Categories=Applications;
+Exec=invoker --single-instance --type=qtcomponents-qt5 /usr/bin/asteroid-helloworld
+Icon=ios-thumbs-up-outline
+X-Asteroid-Center-Color=#ed601e
+X-Asteroid-Outer-Color=#2769f7
+Name=Hello World
