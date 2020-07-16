@@ -1,5 +1,8 @@
-# Asteroid Stopwatch
-A stopwatch app for [AsteroidOS](http://asteroidos.org/)
+# Asteroid Hello World
+A hello world app for [AsteroidOS](http://asteroidos.org/)
+
+This is just [asteroid-stopwatch](https://github.com/AsteroidOS/asteroid-stopwatch) but with a bunch of stuff removed, and
+with a different name so that you can play with it without overwriting the stopwatch app.
 
 ## Dependencies
 * [qml-asteroid](https://github.com/AsteroidOS/qml-asteroid)
